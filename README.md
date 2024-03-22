@@ -1,22 +1,18 @@
-# Welcome to Florian Liao's GitHub page!
+***Welcome to Florian Liao's GitHub page!***
 
-<link rel="stylesheet" href="user.css">
 <img src="orange-cat-sleep.gif" width="100" height="100" alt="orangecat">
 
 ***This orange cat is the mythological animal that guards my github page.***
 
+***I'm an Arch Linux and rust enthusiast, my daily work environment is Arch Linux + [hyprland](https://github.com/huahuadeliaoliao/hua_hyprland_conf)***
 
+- 🔭 I’m currently working on ***[RoseSwitch](https://github.com/huahuadeliaoliao/RoseSwitch)***
 
+- 🌱 I’m currently learning 
+- linux network programming
+- solana
+- x11 and wayland windows protocol
 
-**huahuadeliaoliao/huahuadeliaoliao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huahuadeliaoliao&size_weight=0.5&count_weight=0.5)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img src="ferris-love-thumb.jpg" width="400" height="300" alt="rustacean">
