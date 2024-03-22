@@ -12,5 +12,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huahuadeliaoliao&size_weight=0.5&count_weight=0.5)
 
-***ASCII art images generated using rascii***
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huahuadeliaoliao&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+***ASCII art images generated using [rascii](https://github.com/orhnk/RASCII)***
 <img src="ferris-love-thumb.jpg" width="400" height="300" alt="rustacean">
