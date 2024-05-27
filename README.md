@@ -4,7 +4,7 @@
 
 ***This orange cat is the mythological animal that guards my github page.***
 
-***I'm an Arch Linux and rust enthusiast, my daily work environment is Arch Linux + [hyprland](https://github.com/huahuadeliaoliao/hua_hyprland_conf)***
+***I'm an Linux and rust enthusiast, my daily work environment is Kubuntu + [hyprland](https://github.com/huahuadeliaoliao/hua_hyprland_conf)***
 
 - 🔭 I’m currently working on ***[RoseSwitch](https://github.com/huahuadeliaoliao/RoseSwitch)***
 
