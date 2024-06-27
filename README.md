@@ -6,9 +6,9 @@
 
 ***I'm an Linux and rust enthusiast, my daily work environment is Kubuntu + [hyprland](https://github.com/huahuadeliaoliao/hua_hyprland_conf)***
 
-- 🔭 I’m currently working on ***[RoseSwitch](https://github.com/huahuadeliaoliao/RoseSwitch)***
+- 🔭 I’m currently working on ***[RoseSong](https://github.com/huahuadeliaoliao/RoseSong)***
 
-- 🌱 I’m currently learning ***linux network programming, solana, x11 and wayland windows protocol***
+- 🌱 I’m currently learning ***gstreamer, solana, x11 and wayland windows protocol***
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huahuadeliaoliao&size_weight=0.5&count_weight=0.5)
 
