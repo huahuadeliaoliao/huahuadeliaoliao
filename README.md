@@ -1,18 +1,17 @@
-***Welcome to Florian Liao's GitHub page!***
+***Welcome to Florian Liao's GitHub profile.***
 
-<img src="orange-cat-sleep.gif" width="100" height="100" alt="orangecat">
+<img src="orange-cat-sleep.gif" width="100" height="100" alt="orange cat">
 
-***This orange cat is the mythological animal that guards my github page.***
+***This orange cat guards my GitHub profile.***
 
-***I'm an Linux and rust enthusiast, my daily work environment is CachyOS + [hyprland](https://github.com/huahuadeliaoliao/hua_hyprland_conf)***
+My work focuses on agent development and LLM inference optimization, including multimodal systems and task-specialized models built on top of large language models. I also occasionally run deep learning training experiments.
 
-- 🔭 I’m currently working on ***[RoseSong](https://github.com/huahuadeliaoliao/RoseSong)***
+I also maintain agent-oriented skills and workflow harnesses that may fit naturally into your own development loop:
 
-- 🌱 I’m currently learning ***gstreamer, pingora, x11 and wayland windows protocol***
+- [long-long-run](https://github.com/huahuadeliaoliao/long-long-run) - A session-bound runtime for long-running agent work, evidence-chain exploration, and controlled implementation handoffs.
+- [ddgs-search-harness](https://github.com/huahuadeliaoliao/ddgs-search-harness) - A DDGS-based search harness for evidence-first research, source discovery, and compact decision packets.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huahuadeliaoliao&size_weight=0.5&count_weight=0.5)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huahuadeliaoliao&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huahuadeliaoliao&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ***ASCII art images generated using [rascii](https://github.com/orhnk/RASCII)***
 <img src="ferris-love-thumb.jpg" width="400" height="300" alt="rustacean">
